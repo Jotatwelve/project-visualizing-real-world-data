@@ -49,7 +49,7 @@ I have some ideas because of the size of the dataset:
 
 - Do the same evolutionary study but about one general statistic. For example: the shot of three or the free throws.
 
-In these days, I will decide what type of visualization do and what 'sub-dataset' choose.
+In these days, I will decide what type of visualization do and what 'sub-dataset' I will choose.
 
 
 ## Technical Requirements
