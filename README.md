@@ -52,15 +52,10 @@ I have some ideas because of the size of the dataset:
 In these days, I will decide what type of visualization do and what 'sub-dataset' choose.
 
 
-## Technical Requirements
+## Conclusions
 
-The technical requirements for this project are as follows:
+Basketball in general, seems to be less hard if we make a shot about 2,3 meters or under the rim. It's more risky, but out of the zone and out of the zone of 2 points, obviously, game seems more difficult, but our reward is higher.
 
- - Select a dataset from a public source.
- - Create a Jupyter notebook to analyze the data
- - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose). Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
- - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
-
-
+With a dataset like this, we learn a lot about make new statistics, graphs, scatter plots and more and above all we learnt about all of this data that exists, under each NBA player whereby we can establish the value of each player inside a NBA Franchise.
 
 
